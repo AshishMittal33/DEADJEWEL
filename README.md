@@ -1,2 +1,2 @@
 # DEADJEWEL
-Play --> https://ashishmittal33.github.io/DEADJEWEL/
+Play --> https://deadjewel.netlify.app/
