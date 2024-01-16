@@ -24,6 +24,8 @@ Images
 
 # Game Control Image: 
 Learn the controls and master the art of survival.
+![controls](https://github.com/AshishMittal33/DEADJEWEL/assets/81253539/1e73b9c1-e5d4-4992-bf57-de6ecafdb2e3)
+
 
 
 # Pickup Item Image: 
