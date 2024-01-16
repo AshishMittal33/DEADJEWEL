@@ -28,6 +28,8 @@ Learn the controls and master the art of survival.
 
 # Pickup Item Image: 
 Collect essential items to stay one step ahead of the undead.
+<img width="621" alt="pickup" src="https://github.com/AshishMittal33/DEADJEWEL/assets/81253539/1bae1643-5890-4036-9077-56f27f7109bb">
+
 
 
 # Video
