@@ -35,5 +35,9 @@ Collect essential items to stay one step ahead of the undead.
 
 
 # Video
+
+https://github.com/AshishMittal33/DEADJEWEL/assets/81253539/da3fc9b7-2877-44fd-b529-b2222fee06b1
+
+
 Watch the Game Trailer
 Experience the intensity of "DEADJEWEL" in the official game trailer.
